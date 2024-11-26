@@ -1,30 +1,30 @@
 ---
-# You can also start simply with 'default'
+# Ви також можете просто почати з 'default'
 theme: default
-# random image from a curated Unsplash collection by Anthony
-# like them? see https://unsplash.com/collections/94734566/slidev
+# випадкове зображення з кураторської колекції Unsplash від Anthony
+# подобається? дивіться https://unsplash.com/collections/94734566/slidev
 background: https://cover.sli.dev
-# some information about your slides (markdown enabled)
+# деяка інформація про ваші слайди (підтримується markdown)
 title: Як досягти 1000x продуктивності з AI?
 info: |
   ## Як досягти 1000x продуктивності з AI?
 
-# apply unocss classes to the current slide
+# застосувати класи unocss до поточного слайду
 class: text-center
 # https://sli.dev/features/drawing
 drawings:
   persist: false
-# slide transition: https://sli.dev/guide/animations.html#slide-transitions
+# перехід між слайдами: https://sli.dev/guide/animations.html#slide-transitions
 transition: slide-left
-# enable MDC Syntax: https://sli.dev/features/mdc
+# увімкнути синтаксис MDC: https://sli.dev/features/mdc
 mdc: true
-# take snapshot for each slide in the overview
+# робити знімок кожного слайду в огляді
 overviewSnapshots: true
 ---
 
-# Practical Intro to Prompt Engineering
+# Як досягти 1000x продуктивності з AI?
 
-Vyacheslav Koldovskyy
+В'ячеслав Колдовський
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
@@ -33,7 +33,7 @@ Vyacheslav Koldovskyy
 </div>
 
 <!--
-The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
+Останній блок коментарів кожного слайду буде розглядатися як нотатки до слайду. Він буде видимим та редагованим у режимі презентатора разом зі слайдом. [Дізнайтеся більше в документації](https://sli.dev/guide/syntax.html#notes)
 -->
 
 ---
@@ -41,15 +41,15 @@ layout: image-left
 image: /vyacheslav-koldovskyy.png
 ---
 
-# Vyacheslav Koldovskyy
+# В'ячеслав Колдовський
 
-- Ph.D, Assoc. Professor
-- 20+ years in IT
-- SoftServe Academy Competence Manager
-- Certified Google Cloud Professional Architect
-- Practical AI Enthusiast
-- Blogger [t.me/programmingmentor](https://t.me/programmingmentor)
-- Youtuber [youtube.com/c/programmingmentorua](https://www.youtube.com/c/programmingmentorua)
+- Кандидат наук, доцент
+- 20+ років в ІТ
+- Менеджер компетентностей [SoftServe Academy](https://career.softserveinc.com/uk-ua/learning-and-certification/)
+- Сертифікований професійний архітектор Google Cloud
+- Ентузіаст генеративного AI
+- Блогер [t.me/programmingmentor](https://t.me/programmingmentor)
+- Ютубер [youtube.com/c/programmingmentorua](https://www.youtube.com/c/programmingmentorua)
 
 <div class="m-6 flex gap-2 fixed bottom-12 right-0 flex-col items-end">
   <a href="https://www.youtube.com/c/programmingmentorua">
@@ -73,7 +73,7 @@ image: /vyacheslav-koldovskyy.png
 layout: image
 image: /ssa-ai.png
 backgroundSize: contain
-title: SSA AI Courses
+title: Курси SSA AI
 ---
 
 ---
@@ -129,8 +129,11 @@ image: /timeline-of-tech-longterm.png
 # Справа в тому, що зміни не просто відбуваються, вони прискорюються
 
 ---
+layout: image
+image: /disruptive-tech.png
+---
 
-# Wargaming LLM
+# Військові ігри з LLM
 
 <div class="flex gap-4">
   <div class="flex-1">
@@ -151,13 +154,13 @@ layout: center
 layout: center
 ---
 
-# LLM - Large Language Models
+# LLM - Великі Мовні Моделі
 
 ---
 layout: center
 ---
 
-# Why Language Model?
+# Чому Мовна Модель?
 
 <img src="/why-language.png" class="h-80" />
 
@@ -165,7 +168,7 @@ layout: center
 layout: center
 ---
 
-# Why Large?
+# Чому Велика?
 
 <img src="/why-large.png" class="h-80" />
 
@@ -173,7 +176,7 @@ layout: center
 layout: center
 ---
 
-# Transformer
+# Трансформер
 
 <img src="/transformer.png" class="h-80" />
 
@@ -181,42 +184,42 @@ layout: center
 layout: image
 image: /ft-transformer.png
 backgroundSize: contain
-title: FT Transformer
+title: FT Трансформер
 ---
 
 <div class="absolute bottom-20 right-5">
-  <a href="https://ig.ft.com/generative-ai/">visualization</a>
+  <a href="https://ig.ft.com/generative-ai/">візуалізація</a>
 </div>
 
 ---
 layout: center
 ---
 
-# Which LLM is the best?
+# Яка LLM найкраща?
 
 ---
 layout: image
 image: /chatbot-arena-overall.png
 backgroundSize: contain
-title: Chatbot Arena Overall
+title: Загальний рейтинг Chatbot Arena
 ---
 
 <div class="absolute bottom-20 right-5">
-  <a href="https://lmarena.ai/">link</a>
+  <a href="https://lmarena.ai/">посилання</a>
 </div>
 
 ---
 layout: image
 image: /chatbot-arena-coding.png
 backgroundSize: contain
-title: Chatbot Arena Coding
+title: Рейтинг кодування Chatbot Arena
 ---
 
 ---
 layout: center
 ---
 
-# Multimodal LLM
+# Мультимодальні LLM
 
 <img src="/multimodal-llm.png" class="h-80" />
 
@@ -224,29 +227,29 @@ layout: center
 layout: center
 ---
 
-# LLM Usage & Applications
+# Використання та застосування LLM
 
-- Text Generation & Summarization
-- Code Assistance & Documentation
-- Language Translation
-- Content Creation & Editing
-- Customer Support Automation
-- Data Analysis & Insights
-- Education
-- ... much more
+- Генерація та узагальнення тексту
+- Допомога з кодом та документацією
+- Переклад мов
+- Створення та редагування контенту
+- Автоматизація підтримки клієнтів
+- Аналіз даних та інсайти
+- Освіта
+- ... багато іншого
 
 ---
 layout: center
 ---
 
-# LLM Limitations
+# Обмеження LLM
 
-- Hallucinations & Factual Inaccuracies
-- Context Window Constraints
-- Training Data Cutoff
-- Bias & Ethical Concerns
-- High Computational Costs
-- Limited Real-time Knowledge
+- Галюцинації та фактичні неточності
+- Обмеження контекстного вікна
+- Обмеження навчальних даних
+- Упередженість та етичні проблеми
+- Високі обчислювальні витрати
+- Обмежені знання в реальному часі
 
 ---
 layout: center
@@ -282,7 +285,7 @@ layout: center
 
 ---
 
-# Prompt Engineering Guide
+# Посібник з інженерії промптів
 
 https://www.promptingguide.ai/
 
@@ -304,102 +307,106 @@ https://www.together.ai/
 
 ---
 
-# Feedback practice
+# Практика зворотного зв'язку
 
 <img src="/fun-feedback.png" class="w-full" />
 
 ---
 
-# 1. Chain of Thought
+# 1. Ланцюжок думок
 
-- Guide the model through step-by-step reasoning
-- "Let's solve this step by step..."
-- Helps with complex problem solving
-- Improves accuracy and reliability
-
----
-
-# 2. Few-Shot Learning
-
-- Provide examples before the main task
-- Format: Example 1 → Result 1, Example 2 → Result 2
-- Creates a pattern for the model to follow
-- Especially useful for specific formats or styles
+- Проведіть модель через покрокове міркування
+- "Давайте розв'яжемо це крок за кроком..."
+- Допомагає у вирішенні складних задач
+- Покращує точність та надійність
 
 ---
 
-# 3. Role Prompting
+# 2. Навчання на прикладах
 
-- Assign a specific role to the AI
-- "Act as a senior software engineer..."
-- Helps frame the context
-- Gets more specialized responses
-
----
-
-# 4. Temperature Control
-
-- Adjust creativity vs. precision
-- Lower (0.0-0.3): More focused, factual
-- Higher (0.7-1.0): More creative, varied
-- Choose based on task requirements
+- Надайте приклади перед основним завданням
+- Формат: Приклад 1 → Результат 1, Приклад 2 → Результат 2
+- Створює шаблон для наслідування моделлю
+- Особливо корисно для специфічних форматів або стилів
 
 ---
 
-# 5. System Instructions
+# 3. Рольові промпти
 
-- Set clear boundaries and context
-- Define behavior and limitations
-- Establish response format
-- Guide overall interaction style
-
----
-
-# 6. Zero-Shot Prompting
-
-- Direct questions without examples
-- Clear, specific instructions
-- Works well for straightforward tasks
-- Requires precise wording
+- Призначте AI конкретну роль
+- "Дійте як старший розробник програмного забезпечення..."
+- Допомагає встановити контекст
+- Отримує більш спеціалізовані відповіді
 
 ---
 
-# 7. Task Decomposition
+# 4. Контроль температури
 
-- Break complex tasks into smaller parts
-- Solve incrementally
-- Reduces errors
-- Improves manageability
-
----
-
-# 8. Constrained Output
-
-- Specify exact response format
-- Use JSON, CSV, or other structures
-- Ensures consistent outputs
-- Easier to parse and process
+- Регулювання креативності vs. точності
+- Нижча (0.0-0.3): Більш сфокусовані, фактичні відповіді
+- Вища (0.7-1.0): Більш креативні, різноманітні відповіді
+- Вибір залежить від вимог завдання
 
 ---
 
-# 9. Iterative Refinement
+# 5. Системні інструкції
 
-- Start broad, then refine
-- Ask for improvements or modifications
-- Build upon previous responses
-- Polish until satisfactory
+- Встановіть чіткі межі та контекст
+- Визначте поведінку та обмеження
+- Встановіть формат відповіді
+- Направляйте загальний стиль взаємодії
 
 ---
 
-# 10. Context Stacking
+# 6. Промпти без прикладів
 
-- Layer multiple contexts
-- Combine different techniques
-- Build comprehensive prompts
-- Achieve more nuanced results
+- Прямі запитання без прикладів
+- Чіткі, конкретні інструкції
+- Добре працює для простих завдань
+- Вимагає точного формулювання
+
+---
+
+# 7. Декомпозиція завдань
+
+- Розбийте складні завдання на менші частини
+- Вирішуйте поступово
+- Зменшує помилки
+- Покращує керованість
+
+---
+
+# 8. Обмежений вивід
+
+- Вказуйте точний формат відповіді
+- Використовуйте JSON, CSV або інші структури
+- Забезпечує послідовність виводу
+- Легше аналізувати та обробляти
+
+---
+
+# 9. Ітеративне вдосконалення
+
+- Почніть широко, потім уточнюйте
+- Просіть покращення або модифікації
+- Будуйте на основі попередніх відповідей
+- Вдосконалюйте до задовільного результату
+
+---
+
+# 10. Нашарування контексту
+
+- Накладайте множинні контексти
+- Комбінуйте різні техніки
+- Будуйте комплексні промпти
+- Досягайте більш нюансованих результатів
 
 ---
 layout: end
 ---
 
-# Thank you for your attention!
+# Дякую за увагу!
+
+<img src="/qr.png" class="w-48 mx-auto mt-4" alt="QR Code">
+
+https://programmingmentor.github.io/slidev-1000x-productivity-ai/
