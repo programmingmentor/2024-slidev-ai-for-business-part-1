@@ -5,9 +5,9 @@ theme: default
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://cover.sli.dev
 # some information about your slides (markdown enabled)
-title: Intro to Practical AI
+title: Як досягти 1000x продуктивності з AI?
 info: |
-  ## Intro to Practical AI
+  ## Як досягти 1000x продуктивності з AI?
 
 # apply unocss classes to the current slide
 class: text-center
@@ -48,23 +48,13 @@ image: /vyacheslav-koldovskyy.png
 - SoftServe Academy Competence Manager
 - Certified Google Cloud Professional Architect
 - Practical AI Enthusiast
+- Blogger [t.me/programmingmentor](https://t.me/programmingmentor)
+- Youtuber [youtube.com/c/programmingmentorua](https://www.youtube.com/c/programmingmentorua)
 
----
-layout: image
-image: /ssa-ai.png
-backgroundSize: contain
-title: SSA AI Courses
----
-
-<div class="m-6 flex gap-2 fixed bottom-0 right-0 flex-col items-end">
+<div class="m-6 flex gap-2 fixed bottom-12 right-0 flex-col items-end">
   <a href="https://www.youtube.com/c/programmingmentorua">
     <div class="h-8 w-8">
       <img src="/pm-logo.jpg" class="h-full w-full rounded-full"/>
-    </div>
-  </a>
-  <a href="https://career.softserveinc.com/uk-ua/softserve-academy">
-    <div class="h-12 w-24">
-      <img src="/ssa-logo-white.svg" class="h-full w-full"/>
     </div>
   </a>
 </div>
@@ -78,6 +68,13 @@ title: SSA AI Courses
     border-color: var(--slidev-theme-primary);
   }
 </style>
+
+---
+layout: image
+image: /ssa-ai.png
+backgroundSize: contain
+title: SSA AI Courses
+---
 
 ---
 layout: image-left
@@ -143,6 +140,121 @@ image: /timeline-of-tech-longterm.png
     <img src="/softserve-nato-02.png" class="w-full" />
   </div>
 </div>
+
+---
+layout: center
+---
+
+# Що ми маємо на увазі під AI зараз?
+
+---
+layout: center
+---
+
+# LLM - Large Language Models
+
+---
+layout: center
+---
+
+# Why Language Model?
+
+<img src="/why-language.png" class="h-80" />
+
+---
+layout: center
+---
+
+# Why Large?
+
+<img src="/why-large.png" class="h-80" />
+
+---
+layout: center
+---
+
+# Transformer
+
+<img src="/transformer.png" class="h-80" />
+
+---
+layout: image
+image: /ft-transformer.png
+backgroundSize: contain
+title: FT Transformer
+---
+
+<div class="absolute bottom-20 right-5">
+  <a href="https://ig.ft.com/generative-ai/">visualization</a>
+</div>
+
+---
+layout: center
+---
+
+# Which LLM is the best?
+
+---
+layout: image
+image: /chatbot-arena-overall.png
+backgroundSize: contain
+title: Chatbot Arena Overall
+---
+
+<div class="absolute bottom-20 right-5">
+  <a href="https://lmarena.ai/">link</a>
+</div>
+
+---
+layout: image
+image: /chatbot-arena-coding.png
+backgroundSize: contain
+title: Chatbot Arena Coding
+---
+
+---
+layout: center
+---
+
+# Multimodal LLM
+
+<img src="/multimodal-llm.png" class="h-80" />
+
+---
+layout: center
+---
+
+# LLM Usage & Applications
+
+- Text Generation & Summarization
+- Code Assistance & Documentation
+- Language Translation
+- Content Creation & Editing
+- Customer Support Automation
+- Data Analysis & Insights
+- Education
+- ... much more
+
+---
+layout: center
+---
+
+# LLM Limitations
+
+- Hallucinations & Factual Inaccuracies
+- Context Window Constraints
+- Training Data Cutoff
+- Bias & Ethical Concerns
+- High Computational Costs
+- Limited Real-time Knowledge
+
+---
+layout: center
+---
+
+# Сам собі фотограф
+
+<img src="/myself-gen.png" class="h-80" />
 
 ---
 layout: center
