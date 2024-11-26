@@ -276,6 +276,14 @@ layout: center
 
 # Це diffusion моделі, але теж генеративні
 
+<img src="/avatar.png" class="h-80" />
+
+---
+layout: center
+---
+
+# Сюрприз! Я теж згенерований
+
 <img src="/myself-gen.png" class="h-80" />
 
 ---
@@ -326,9 +334,39 @@ https://www.together.ai/
 
 ---
 
-# Практика зворотного зв'язку
+# Практика CV
 
-<img src="/fun-feedback.png" class="w-full" />
+<img src="/cv-practice.png" class="w-full" />
+
+---
+
+# Зробимо презентацію?
+
+<img src="/gamma.png" class="w-full" />
+
+---
+layout: center
+---
+
+# А якщо зробити щось таке, що ми не вміємо в принципі?
+
+---
+
+# Згенеруємо пісню?
+
+<img src="/suno.png" class="w-full" />
+
+---
+
+# Зробимо сайт чи програму?
+
+<img src="/bolt.png" class="w-full" />
+
+---
+layout: center
+---
+
+# Практика з інженерії промптів
 
 ---
 
