@@ -70,13 +70,6 @@ image: /vyacheslav-koldovskyy.png
 </style>
 
 ---
-layout: image
-image: /ssa-ai.png
-backgroundSize: contain
-title: Курси SSA AI
----
-
----
 layout: image-left
 image: /1000x.png
 ---
@@ -122,6 +115,12 @@ image: /how-we-learn.webp
 # Як ми вчилися раніше і робимо це зараз?
 
 ---
+layout: center
+---
+
+# Руйнівні технології
+
+---
 layout: image-left
 image: /timeline-of-tech-longterm.png
 ---
@@ -131,6 +130,8 @@ image: /timeline-of-tech-longterm.png
 ---
 layout: image
 image: /disruptive-tech.png
+---
+
 ---
 
 # Військові ігри з LLM
@@ -149,6 +150,24 @@ layout: center
 ---
 
 # Що ми маємо на увазі під AI зараз?
+
+---
+layout: image
+image: /ai-gen-ai.jpg
+backgroundSize: contain
+---
+
+---
+layout: image
+image: /human-ai.png
+backgroundSize: contain
+---
+
+---
+layout: image
+image: /discriminant-vs-generative.png
+backgroundSize: contain
+---
 
 ---
 layout: center
@@ -255,7 +274,7 @@ layout: center
 layout: center
 ---
 
-# Сам собі фотограф
+# Це diffusion моделі, але теж генеративні
 
 <img src="/myself-gen.png" class="h-80" />
 
@@ -400,6 +419,13 @@ https://www.together.ai/
 - Комбінуйте різні техніки
 - Будуйте комплексні промпти
 - Досягайте більш нюансованих результатів
+
+---
+layout: image
+image: /ssa-ai.png
+backgroundSize: contain
+title: Курси SSA AI
+---
 
 ---
 layout: end
