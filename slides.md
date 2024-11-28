@@ -312,6 +312,24 @@ layout: center
 
 ---
 
+# Як порахувати вартість використання AI?
+
+- Підписки на сервіси
+- Використання API <br>
+  https://openai.com/api/pricing/ <br>
+  https://platform.openai.com/tokenizer 
+
+---
+
+# Як використовувати AI безкоштовно?
+
+https://youtu.be/WcIghZD9QhI 
+
+<img src="/local-ai.png" alt="Local Models" class="w-3/4" mx-auto d-block>
+
+
+---
+
 # Groq
 
 https://groq.com/
@@ -328,7 +346,7 @@ https://www.together.ai/
 
 ---
 
-# Практика CV
+# Генеримо CV?
 
 <img src="/cv-practice.png" class="w-full" />
 
