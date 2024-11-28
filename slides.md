@@ -312,12 +312,6 @@ layout: center
 
 ---
 
-# Посібник з інженерії промптів
-
-https://www.promptingguide.ai/
-
----
-
 # Groq
 
 https://groq.com/
