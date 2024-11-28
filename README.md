@@ -1,4 +1,4 @@
-# Slides live at [https://programmingmentor.github.io/2024-ai-augmented-sdev/](https://programmingmentor.github.io/2024-ai-augmented-sdev/)
+# Slides live at https://programmingmentor.github.io/2024-slidev-ai-for-business-part-1/
 
 # Welcome to [Slidev](https://github.com/slidevjs/slidev)!
 
